@@ -1,0 +1,15 @@
+datasets==3.3.0
+ipython==8.32.0
+langchain-openai==0.3.5
+Levenshtein==0.26.1
+natsort==8.4.0
+nltk==3.9.1
+numpy==2.2.3
+pandas==2.2.3
+regex==2024.11.6
+scikit-learn==1.6.1
+scipy==1.15.1
+textdistance==4.6.3
+torch==2.6.0
+tqdm==4.67.1
+transformers==4.48.3
